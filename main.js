@@ -9,9 +9,9 @@
 //     return a + b
 //  }
 //  console.log(sum(2, 8));
- function kvadrat(a){
-    return a **2
- }
- console.log(kvadrat(5));
+//  function kvadrat(a){
+//     return a **2
+//  }
+//  console.log(kvadrat(5));
  
  
