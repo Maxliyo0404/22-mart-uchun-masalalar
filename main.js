@@ -26,5 +26,7 @@
  let c =prompt("c sonini kiriting");
  function katta(check){
      h = Math.max(a, b, c)
-     l
+     console.log(h);
+     
+     
  }
