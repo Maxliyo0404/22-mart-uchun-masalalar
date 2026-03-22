@@ -52,10 +52,17 @@ function check(a){
     if (a % 3 === 0 && a % 5 ===0) {
         alert("FizzBazz")
     }
-    else if( a % 3){
-
+    else if( a % 3 ===0){
+         alert("Fizz")
+    }
+    else if( a % 5 ===0){
+         alert("Bizz")
     }
      else {
+        alert("boshqa")
+        
         
     }
+    console.log(a);
 }
+check(a)
