@@ -45,3 +45,5 @@
      
 //  }
 //  check(a, b, c )
+
+let a = +prompt("a sonini kiriting");
