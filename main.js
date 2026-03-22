@@ -67,12 +67,16 @@
 // }
 // check(a)
 
-let number = +prompt("son kiriting");
+// let number = +prompt("son kiriting");
 
-function check (number){
-    if (number > 0) {
-        alert("musbat son")
-    } else {
-        
-    }
-}
+// function check (number){
+//     if (number > 0) {
+//         alert("musbat son")
+//     } else if (number === 0) {
+//         alert("0 son teng")
+//     } else{
+//         alert("manfiy son")
+//     }
+// } console.log(number);
+
+// check(number);
