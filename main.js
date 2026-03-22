@@ -33,15 +33,15 @@
 //  check(a, b, c )
 
 
- let a = +prompt("a sonini kiriting");
- let b = +prompt("b sonini kiriting");
- let c = +prompt("c sonini kiriting");
- function check(a, b, c){
-     katta = Math.max(a, b, c)
-     kichik = Math.min(a, b, c)
-     sum = (a + b +c) - (katta + kichik)
-     console.log(sum);
+//  let a = +prompt("a sonini kiriting");
+//  let b = +prompt("b sonini kiriting");
+//  let c = +prompt("c sonini kiriting");
+//  function check(a, b, c){
+//      katta = Math.max(a, b, c)
+//      kichik = Math.min(a, b, c)
+//      sum = (a + b +c) - (katta + kichik)
+//      console.log(sum);
      
      
- }
- check(a, b, c )
+//  }
+//  check(a, b, c )
