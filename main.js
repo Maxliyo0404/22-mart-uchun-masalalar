@@ -13,13 +13,13 @@
 //     return a **2
 //  }
 //  console.log(kvadrat(5));
-let number = prompt("son kiriting")
-function sum (number){
-    if (number % 2 === 0) {
-        alert("juft son ")
-    } else {
-        alert("toq son")
-    }
+// let number = prompt("son kiriting")
+// function sum (number){
+//     if (number % 2 === 0) {
+//         alert("juft son ")
+//     } else {
+//         alert("toq son")
+//     }
 } sum(number)
  
  
