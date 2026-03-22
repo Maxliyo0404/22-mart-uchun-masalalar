@@ -22,6 +22,9 @@
 //     }
 // } sum(number)
  let a =prompt("a sonini kiriting");
- function katta(son){
-
+ let b =prompt("b sonini kiriting");
+ let c =prompt("c sonini kiriting");
+ function katta(check){
+     h = Math.max(a, b, c)
+     l
  }
