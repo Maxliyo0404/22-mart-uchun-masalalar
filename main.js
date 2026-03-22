@@ -30,4 +30,4 @@
      
      
  }
- check
+ check(a, b, c)
