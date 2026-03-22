@@ -31,3 +31,15 @@
      
 //  }
 //  check(a, b, c )
+
+
+ let a = +prompt("a sonini kiriting");
+ let b = +prompt("b sonini kiriting");
+//  let c = +prompt("c sonini kiriting");
+//  function check(a, b, c){
+//      h = Math.max(a, b, c)
+//      console.log(h);
+     
+     
+//  }
+//  check(a, b, c )
