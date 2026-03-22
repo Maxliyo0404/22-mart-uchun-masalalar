@@ -40,7 +40,7 @@
      katta = Math.max(a, b, c)
      kichik = Math.min(a, b, c)
      sum = (a + b +c) - (katta + kichik)
-     console.log(h);
+     console.log(sum);
      
      
  }
