@@ -66,3 +66,13 @@
 //     console.log(a);
 // }
 // check(a)
+
+let number = +prompt("son kiriting");
+
+function check (number){
+    if (number > 0) {
+        alert("musbat son")
+    } else {
+        
+    }
+}
