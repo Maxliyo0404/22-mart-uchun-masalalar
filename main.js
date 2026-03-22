@@ -46,23 +46,23 @@
 //  }
 //  check(a, b, c )
 
-let a = +prompt("a sonini kiriting");
+// let a = +prompt("a sonini kiriting");
 
-function check(a){
-    if (a % 3 === 0 && a % 5 ===0) {
-        alert("FizzBazz")
-    }
-    else if( a % 3 ===0){
-         alert("Fizz")
-    }
-    else if( a % 5 ===0){
-         alert("Bizz")
-    }
-     else {
-        alert("boshqa")
+// function check(a){
+//     if (a % 3 === 0 && a % 5 ===0) {
+//         alert("FizzBazz")
+//     }
+//     else if( a % 3 ===0){
+//          alert("Fizz")
+//     }
+//     else if( a % 5 ===0){
+//          alert("Bizz")
+//     }
+//      else {
+//         alert("boshqa")
         
         
-    }
-    console.log(a);
-}
-check(a)
+//     }
+//     console.log(a);
+// }
+// check(a)
