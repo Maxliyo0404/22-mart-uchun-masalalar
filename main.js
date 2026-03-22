@@ -20,6 +20,6 @@
 //     } else {
 //         alert("toq son")
 //     }
-} sum(number)
+// } sum(number)
  
  
