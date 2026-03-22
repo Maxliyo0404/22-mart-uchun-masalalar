@@ -21,7 +21,7 @@
 //         alert("toq son")
 //     }
 // } sum(number)
- 
+ let a =prompt("a sonini kiriting");
  function katta(son){
-    
+
  }
