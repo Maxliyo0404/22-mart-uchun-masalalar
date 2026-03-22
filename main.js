@@ -13,5 +13,13 @@
 //     return a **2
 //  }
 //  console.log(kvadrat(5));
+let son = prompt("son kiriting")
+function son (number){
+    if (number % 2 === 0) {
+        alert("juft son ")
+    } else {
+        a
+    }
+}
  
  
