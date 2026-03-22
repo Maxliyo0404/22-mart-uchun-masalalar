@@ -22,4 +22,6 @@
 //     }
 // } sum(number)
  
- 
+ function katta(son){
+    
+ }
