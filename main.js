@@ -5,8 +5,13 @@
 // let brokenleft = 2
 // let lastbroken = 2
 // console.log(parta * 4 - broken * 1 -brokenleft * 2 -lastbroken * 3);
- function sum (a, b){
-    return a + b
+//  function sum (a, b){
+//     return a + b
+//  }
+//  console.log(sum(2, 8));
+ function kvadrat(a){
+    return a **2
  }
- console.log(sum(2, 8));
+ console.log(kvadrat(5));
+ 
  
